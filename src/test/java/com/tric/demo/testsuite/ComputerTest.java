@@ -136,13 +136,13 @@ public class ComputerTest extends TestBase {
         checkoutPage.clickONGuestTab();
 
         //2.23 Enter the First name
-        checkoutPage.enterFirstName("Payal");
+        checkoutPage.enterFirstName("jalpa");
 
         //2.24 Enter the Last name
-        checkoutPage.enterLastName("Patel");
+        checkoutPage.enterLastName("kalpesh");
 
         //2.25 Enter the email
-        checkoutPage.enterEmail("pppp@gmail.com");
+        checkoutPage.enterEmail("jalpa123@gmail.com");
 
         //2.26 Select the Country “United Kingdom” using the select class
         checkoutPage.selectCountryName("United Kingdom");
