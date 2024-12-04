@@ -129,13 +129,13 @@ public class ElectronicsTest extends TestBase {
         registerPage.clickOnMaleRadioButton();
 
         //2.22 Enter the First name
-        registerPage.enterFirstName("Neel");
+        registerPage.enterFirstName("kapil");
 
         //2.23 Enter the Last name
-        registerPage.enterLastName("Patel");
+        registerPage.enterLastName("kanada");
 
         //2.24 Enter the Email
-        registerPage.enterEmailAddress("neilp5545@yahoo.com");
+        registerPage.enterEmailAddress("kapil6162@yahoo.com");
 
         //2.25 Enter the Password
         registerPage.enterPassword("abcd123");
@@ -169,10 +169,10 @@ public class ElectronicsTest extends TestBase {
         checkoutPage.enterCityName("London");
 
         //2.35 Enter the Address1
-        checkoutPage.enterAddress("123/A");
+        checkoutPage.enterAddress("60/A");
 
         //2.36 Enter the Zip/Postal code
-        checkoutPage.enterPostcode("HA5HYW");
+        checkoutPage.enterPostcode("HA0H1AE");
 
         //2.37 Enter the Phone number
         checkoutPage.enterPhoneNumber("4567890532");
@@ -199,7 +199,7 @@ public class ElectronicsTest extends TestBase {
         checkoutPage.selectMasterCardOption("Visa");
 
         //2.45 Enter the Cardholder's name
-        checkoutPage.enterCardHolderName("payal");
+        checkoutPage.enterCardHolderName("JALPA");
 
         //2.46 Enter the Card number
         checkoutPage.enterCreditCardNumber("4915678617150676");
